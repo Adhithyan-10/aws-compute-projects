@@ -26,7 +26,7 @@ This project implements a scalable web architecture where:
 
 The following architecture diagram illustrates how traffic flows through AWS services to reach EC2 instances.
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](architecture/architecture_Dia(asg).png)
 
 ### Architecture Flow
 
