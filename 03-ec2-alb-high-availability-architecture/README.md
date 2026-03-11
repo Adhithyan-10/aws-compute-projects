@@ -12,7 +12,7 @@ This architecture closely reflects **real-world production deployments used in e
 
 ## Full Project Repository
 
-Complete implementation including documentation, screenshots, and demo video:
+Complete implementation including documentation, Architecture diagram, screenshots, and demo video:
 
 https://github.com/Adhithyan-10/aws-application-load-balancer-ec2
 
