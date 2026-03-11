@@ -163,6 +163,23 @@ Refreshing the page routes traffic to different EC2 instances, demonstrating loa
 
 ---
 
+## Load Balancer Output 2
+
+![ALB Output](screenshots/08-alb-output2.png)
+
+Refreshing the load balancer URL routes requests to another EC2 instance, demonstrating traffic distribution across instances managed by the Auto Scaling Group.
+
+---
+
+## Apache Web Server Output
+
+![Apache Output](screenshots/08-apache-webpage-output.png)
+
+This screenshot shows the webpage served by the Apache web server running on the EC2 instance.  
+The page dynamically displays instance metadata such as Instance ID, Availability Zone, and Hostname generated using the User Data script.
+
+---
+
 # 🎥 Project Demo Videos
 
 Two demonstration videos are provided for this project.
@@ -177,7 +194,11 @@ This demo demonstrates how the **Application Load Balancer distributes requests 
 
 📹 Demo video links available here:
 
-demo/README.md
+## Auto Scaling Group Scaling Demo
+https://drive.google.com/file/d/1XvSCqzDDHIgHkYaUIApz-ZGU2U_zTbLq/view?usp=drive_link
+
+## Load Balancer Traffic Distribution Demo
+https://drive.google.com/file/d/1IN4w5ROkvUvRi0r8-7Dbk8XQOiOh2N2f/view?usp=drive_link
 
 ---
 
