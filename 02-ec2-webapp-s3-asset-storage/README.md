@@ -86,7 +86,7 @@ The issue was resolved by updating the server configuration to listen on:
 0.0.0.0
 ```
 
-which allows external connections. :contentReference[oaicite:1]{index=1}
+which allows external connections. 
 
 ### 5. Configure S3 Buckets
 Create multiple S3 buckets to store static assets such as images.
@@ -126,7 +126,7 @@ Access the web application using the EC2 public IP address and verify that asset
 
 The web application is successfully hosted on an EC2 instance and is publicly accessible through the EC2 public IP address.
 
-Static assets such as images are retrieved from Amazon S3 buckets, demonstrating separation between compute and storage layers. :contentReference[oaicite:2]{index=2}
+Static assets such as images are retrieved from Amazon S3 buckets, demonstrating separation between compute and storage layers. 
 
 ---
 
